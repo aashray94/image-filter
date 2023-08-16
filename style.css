@@ -1,0 +1,46 @@
+body{
+    background-color:#f9cdad;
+     background-image: url("https://images.pexels.com/photos/462024/pexels-photo-462024.jpeg?cs=srgb&dl=beach-bench-boardwalk-clouds-462024.jpg&fm=jpg");
+      background-repeat: no-repeat;
+  }
+  canvas{
+    width: 500px;
+    border: 20px solid #000000;
+  }
+  div{
+    text-align:center;
+  }
+  #p1{
+    font-family: verdana;
+    font-size: 20px;
+    text-align: center;
+  
+    color: red;
+  }
+  #im{
+    width:350px;
+    border: 2px solid #000000;
+    border-radius: 15px;
+    color: black;
+  }
+  #gs{
+    border-radius:15px;
+    border-color:#000000;
+    height:25px;
+    cursor: pointer;
+    background-color: #567898;
+  }
+  #p2{
+    font-size: 20px;
+  }
+  #p3{
+    font-size:20px;
+  }
+  
+  #bf{
+    border-radius:15px;
+    border-color:#000000;
+    height:25px;
+    cursor: pointer;
+    background-color: #1A9862;
+  }
